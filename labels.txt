@@ -1,2 +1,2 @@
-0 Pikachu
-1 Eevee
+0 Local Guide
+1 Rubber ball
